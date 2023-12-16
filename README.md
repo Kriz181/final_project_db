@@ -1,5 +1,9 @@
 # LECTURE EXAMINATION # 4 (Documentation)
 
+## Entity Relationship Diagram
+
+![ERD](https://github.com/Kriz181/final_project_db/blob/main/ERD.png?raw=true)
+
 ## Overview
 
 The CRUD (Create, Read, Update, Delete) system is a basic web application for managing employee information. It allows users to perform operations such as adding new employees, viewing a list of employees, updating employee details, and deleting employees.
